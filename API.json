@@ -1,0 +1,112 @@
+
+{
+  "CV": {
+    "profil": "En reconversion professionnelle, réalisant une montée en compétences dans le domaine des tests logiciels manuels et automatisés. Ouvert et curieux, doté d’un esprit analytique hérité de mes années d’enseignement et d’un vrai sens du détail dans l’exécution.",
+    "nom": "Maxime Larbi",
+    "contact": {
+      "email": "",
+      "telephone": ""
+    },
+    "reseaux": {
+      "github": "https://github.com/MaximeLarbi",
+      "linkedin": "Maxime Larbi"
+    },
+    "formation": {
+      "intitule": "Testeur logiciel",
+      "etablissement": "IT Akademy - Campus numérique - Lyon",
+      "periode": "mai 2025 à janvier 2026"
+    },
+    "langues": {
+      "naturelles": [
+        "Anglais"
+      ],
+      "programmation": [
+        "Python",
+        "PHP"
+      ],
+      "marquage_et_donnees": [
+        "HTML",
+        "JSON",
+        "XML"
+      ],
+      "requete": [
+        "SQL",
+        "NoSQL"
+      ]
+    },
+    "competences_transversales": [
+      "Esprit de synthèse et qualités rédactionnelles",
+      "Patience et résilience",
+      "Capacités relationnelles et orales",
+      "Autonomie et capacité d’apprentissage rapide",
+      "Utilisation de supports variés (du manuscrit à Selenium, Selenium IDE)"
+    ],
+    "projets": [
+      {
+        "titre": "Projet de test automatisé",
+        "description": "Développement d'un framework de test automatisé pour une application web."
+      }
+    ],
+    "experiences": [
+      {
+        "intitule": "QA en cours de formation",
+        "structure": "",
+        "periode": "2025 - Aujourd’hui",
+        "missions": [
+          "Rédaction de plans de tests fonctionnels",
+          "Exécution de tests manuels",
+          "Automatisation de tests via Selenium",
+          "Création et exécution de tests avec Selenium IDE",
+          "Utilisation de langages et outils (Python via VS Code ou Cursor)",
+          "Connaissances appliquées en HTML et CSS"
+        ],
+        "competences_techniques": [
+          "Tests fonctionnels",
+          "Tests manuels",
+          "Automatisation avec Selenium",
+          "Selenium IDE",
+          "Python",
+          "HTML/CSS",
+          "VS Code",
+          "Cursor"
+        ]
+      },
+      {
+        "intitule": "Professeur d’Histoire-Géographie",
+        "structure": "Éducation nationale",
+        "periode": "2015 - 2025",
+        "missions": [
+          "Conception de séquences pédagogiques claires et structurées",
+          "Utilisation quotidienne d’outils numériques (Pronote, Réseau Canopé)",
+          "Communication adaptée aux élèves et aux équipes pédagogiques",
+          "Gestion de classe et coordination d’équipe",
+          "Réactivité face aux imprévus et planification efficace"
+        ],
+        "competences_transversales": [
+          "Rigueur, logique, clarté",
+          "Esprit d’analyse et de synthèse",
+          "Précision et gestion de l’information",
+          "Communication claire à l’oral comme à l’écrit",
+          "Compétences transférables utiles pour le test logiciel (documentation, remontée d’anomalies)"
+        ]
+      },
+      {
+        "intitule": "Secrétaire administratif",
+        "structure": "Conseil Général de la Loire – Délégation à la vie sociale",
+        "periode": "2011 - 2012",
+        "missions": [
+          "Suivi de dossiers administratifs confidentiels selon des nomenclatures spécifiques",
+          "Rédaction de courriers et de notes internes avec clarté et précision",
+          "Utilisation d’outils bureautiques pour la gestion de fichiers et la mise à jour de bases de données",
+          "Organisation et priorisation des tâches dans un environnement institutionnel exigeant"
+        ],
+        "competences_transversales": [
+          "Méthodologie",
+          "Structuration de documents",
+          "Traitement rigoureux de l’information"
+        ]
+      }
+    ]
+  }
+}
+
