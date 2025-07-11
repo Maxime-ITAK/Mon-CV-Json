@@ -22,7 +22,7 @@
       ],
       "programmation": [
         "Python",
-        "PHP"
+        "JS"
       ],
       "marquage_et_donnees": [
         "HTML",
@@ -50,7 +50,7 @@
     "experiences": [
       {
         "intitule": "QA en cours de formation",
-        "structure": "",
+        "structure": "IT-AKADEMY",
         "periode": "2025 - Aujourd’hui",
         "missions": [
           "Rédaction de plans de tests fonctionnels",
@@ -61,12 +61,10 @@
           "Connaissances appliquées en HTML et CSS"
         ],
         "competences_techniques": [
-          "Tests fonctionnels",
+          "Tests fonctionnels et non fonctionnels",
           "Tests manuels",
-          "Automatisation avec Selenium",
+          "Automatisation avec Selenium/Robotframework",
           "Selenium IDE",
-          "Python",
-          "HTML/CSS",
           "VS Code",
           "Cursor"
         ]
